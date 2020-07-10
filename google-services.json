@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763532630221",
+    "firebase_url": "https://my-first-login-page.firebaseio.com",
+    "project_id": "my-first-login-page",
+    "storage_bucket": "my-first-login-page.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763532630221:android:8a3be3c96a24004ab37184",
+        "android_client_info": {
+          "package_name": "com.suraj.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763532630221-d1ekt4o6u1t7g6cpcbuhhajt8j2elkhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDml70LfwlAAp0Jubfs117ImZdtgrXu3NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763532630221-d1ekt4o6u1t7g6cpcbuhhajt8j2elkhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
